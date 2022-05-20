@@ -1,29 +1,25 @@
-
-body{
-background-image: url("fonts background.webp");
-}
 .heading{
     font-size: 23px;
     width: 100%;
     margin: 0px;
-    box-shadow: 5px 5px 5px rgb(79, 51, 47);
+    box-shadow: 5px 5px 5px rgb(53, 47, 79);
    }
    .note{
        font: size 2px;
-       color:rgb(46, 3, 3);
+       color:rgb(46, 3, 10);
    }
    .copy_right_footer{
        position: fixed;
-       color:rgb(255, 127, 127);
+       color:rgb(127, 255, 133);
        bottom: 0px;
        top: 500px;
        width:100%;
-       background-color: rgb(250, 229, 135);
+       background-color: rgb(179, 135, 250);
        line-height: 3;
        text-align:center;
    }
    canvas{
-       border:5px solid rgb(255, 186, 141);
+       border:5px solid rgb(176, 221, 222);
        border-radius: 20px;
-       box-shadow: 5px 5px rgb(216, 162, 112);
+       box-shadow: 5px 5px rgb(216, 112, 185);
    }
